@@ -8,14 +8,10 @@ Implemented using the Breadth First Search.
 ***
 Example screenshots:  
 1.![ex1](screenshots/ex1.png)
-2.***
-3.![ex2](screenshots/ex2.png)
-4.***
-5.![ex3](screenshots/ex3.png)
-6.***
-7.![ex4](screenshots/ex4.png)
-8.***
-9.![ex5](screenshots/ex5.png)
+2.![ex2](screenshots/ex2.png)
+3.![ex3](screenshots/ex3.png)
+4.![ex4](screenshots/ex4.png)
+5.![ex5](screenshots/ex5.png)
 ***
 ### How to Run:
 ```Bash
