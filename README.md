@@ -4,7 +4,7 @@
 In this program we will be needing to input the two names of the actors and this program will tell you the shortest path of the movies by which they are connected.  
 Implemented using the Breadth First Search.
 ***
-**To explore the dataset you can see the small and large directries!**
+**To explore the dataset you can see the small and large directories!**
 ***
 Example screenshots:  
 1.![ex1](screenshots/ex1.png)
